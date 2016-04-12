@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "MarkShark",
+  "description": "This extention overhauls the bookmarks system to make it quick and easy to add and organize bookmarks.",
+  "version": "1.0",
+
+
+  "browser_action": {
+    "default_icon": "placeholder.png",
+    "default_title": "MarkShark"
+  },
+
+  "omnibox": {"keyword" : "mark"}
+}
